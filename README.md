@@ -27,11 +27,6 @@
 - Upload and share documents, links, and other resources.
 - Categorize and organize shared resources for easy access.
 
-### 5. **Analytics Dashboard**
-
-- Visualize group performance and task progress.
-- Metrics for admins to track productivity and engagement.
-
 ## **Technology Stack**
 
 ### **Backend**
