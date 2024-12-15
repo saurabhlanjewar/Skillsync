@@ -1,7 +1,7 @@
 
 
-*/__pycache__/
-*/migrations/__pycache__/
+backend/*/__pycache__/
+backend/*/migrations/__pycache__/
 
 
-db.sqlite3
+backend/db.sqlite3
